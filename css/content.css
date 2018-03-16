@@ -1,0 +1,71 @@
+/*--------------------------------------------------------------
+10.0 Content
+--------------------------------------------------------------*/
+.mainFrame {
+  margin: 25px auto;
+  width: 900px;
+  background-color: #ff9f71;
+  border-radius: 20px;
+  padding: 15px;
+  /*text-align: center;*/
+}
+
+.sidebar {
+  margin: 5px 10px;
+  width: 150px;
+  background-color: #c3c3c3;
+  border-radius: 20px;
+  text-align: left;
+  display: inline-block;
+}
+
+.mainContent {
+  margin: 5px 5px;
+  width: 650px;
+  background-color: #c3c3c3;
+  border-radius: 20px;
+  display: inline-block;
+}
+
+.quote {
+  text-align: right;
+  border-bottom: 1px solid grey;
+  width: 450px;
+}
+
+p.flash {
+  background-color: yellow;
+  padding: 0px 20px;
+}
+
+.display {
+  border: 1px solid black;
+}
+
+table {
+  border-top: 15px;
+}
+
+#button {
+  width: 130px;
+  height: 40px;
+  background-color: blue;
+  color: white;
+}
+
+#reset {
+  width: 90px;
+  height: 40px;
+  background-color: red;
+}
+
+#displayData {
+  border: 1px solid grey;
+}
+
+#txtChat {
+  width: 300px;
+}
+/*label {
+  display: block;
+}*/
